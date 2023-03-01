@@ -39,10 +39,6 @@
                 <img src="icons/c.png" width="65px"/>
                 <br /> C
             </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/c.png" width="65px"/>
-                <br /> C
-            </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
@@ -56,10 +52,6 @@
             <td align="center" width="140" height="112.43">
                 <img src="icons/r.png" width="65px"/>
                 <br /> R
-            </td>
-            <td align="center" width="140" height="112.43">
-                <img src="icons/c.png" width="65px"/>
-                <br /> C
             </td>
         </tr>
     </table>
