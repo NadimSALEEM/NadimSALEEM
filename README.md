@@ -8,7 +8,7 @@
 
 <img align="left" src="svg/4.png" height="100px"/>
 
-```Python
+
     + Hi guys, I'm Nadim, a third-year undergraduate student 
      
      in Cognitive Science at the IDMC - University of Lorraine.
@@ -19,7 +19,7 @@
      has led me to explore the fascinating intersection between
      
      these two fields.
-```
+
 
     
 <br>
