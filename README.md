@@ -1,9 +1,8 @@
 <p align="center">
-    <img src="svg/inspiration.gif" width="480px"/>
+    <img src="svg/brain.png" width="320px"/>
 </p>
 
 <h2 align="center">Hi There</h2>
-<p align="center">I'm Nadim. Welcome to my github profile</p>
 
 <img align="left" src="svg/givingback.svg" height="222px"/>
 
