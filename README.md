@@ -61,7 +61,7 @@
 
 <br>
 
-<img align="left" src="svg/webdevelopment.svg" height="277px"/>
+<img align="left" src="svg/webdevelopment.svg" height="200px"/>
 
 ```csharp
     + I'm eager to gain practical experience and contribute to the
