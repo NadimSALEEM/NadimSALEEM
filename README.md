@@ -1,8 +1,12 @@
 
-<h2 align="center">Hi There</h2>
+<h2 align="center">
+    <img align="center" src="svg/1.png" height="100px"/>
+    Hi There
+    <img align="center" src="svg/1.png" height="100px"/>
+</h2>
     
-<img align="left" src="svg/givingback.svg" height="175px"/>
 
+<img align="left" src="svg/4.png" height="100px"/>
 
 ```Python
     + Hi guys, I'm Nadim, a third-year undergraduate student 
@@ -52,13 +56,13 @@
             </td>
         </tr>
     </table>
-    <img src="svg/artificialintelligence.svg" height="225px"/>
+    <img src="svg/6.png" height="225px"/>
     
 </div>
 
 <br>
 
-<img align="left" src="svg/webdevelopment.svg" height="200px"/>
+<img align="left" src="svg/3.png" height="100px"/>
 
 ```Python
     + Im eager to gain practical experience and contribute to the
