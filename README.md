@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="svg/inspiration.svg" width="480px"/>
+    <img src="svg/inspiration.gif" width="480px"/>
 </p>
 
 <h2 align="center">Hi There</h2>
@@ -61,20 +61,21 @@
 <img align="left" src="svg/webdevelopment.svg" height="277px"/>
 
 ```csharp
-    General Information
-    ------------------------------------------
-    Name: Nadim
-    Lastname: Saleem
-    Nickname: 2goat2
-    Gender: Male
-    Age: 22
-    Languages: ["French"], ["English"], ["Arabic"]
-    Country: France
+    + I'm eager to gain practical experience and contribute to the
+    
+    development of innovative solutions that can enhance human
+    
+    cognition and decision-making.
     
     
+    + I'm particularly interested in topics such as
+    
+    artificial intelligence, machine learning, and data science.
     
     
+    + In my free time, I enjoy tinkering with code, reading about
     
+    the latest advancements in cognitive science, and playing music.
 ```
 <h2 align="center">🤝🏻Connect with Me🤝🏻</h2>
 
