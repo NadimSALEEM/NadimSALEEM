@@ -1,5 +1,5 @@
 <p>
-    <img align="Right" src="svg/brain.png" width="300px"/>
+    <img align="Right" src="svg/brain.png" width="150px"/>
 </p>
 
 <h2 align="center">Hi There</h2>
