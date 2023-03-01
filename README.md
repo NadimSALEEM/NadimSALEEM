@@ -6,7 +6,7 @@
 </h2>
     
     
-<img align="left" src="ssvg/4.png" height="100px"/>
+<img align="left" src="svg/4.png" height="175px"/>
 
 ```Python
     + Hi guys, I'm Nadim, a third-year undergraduate student 
@@ -55,13 +55,13 @@
             </td>
         </tr>
     </table>
-    <img src="ssvg/6.png" height="225px"/>
+    <img src="svg/6.png" height="300px"/>
     
 </div>
 
 <br>
 
-<img align="left" src="ssvg/3.png" height="100px"/>
+<img align="left" src="svg/3.png" height="200px"/>
 
 ```Python
     + Im eager to gain practical experience and contribute to the
