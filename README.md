@@ -8,15 +8,16 @@
 <img align="left" src="svg/givingback.svg" height="222px"/>
 
 ```csharp
-    General Information
-    ------------------------------------------
-    Name: Nadim
-    Lastname: Saleem
-    Nickname: 2goat2
-    Gender: Male
-    Age: 22
-    Languages: ["French"], ["English"], ["Arabic"]
-    Country: France
+    + Hi guys, I'm Nadim, a third-year undergraduate student 
+     
+     in Cognitive Science at the IDMC - University of Lorraine.
+     
+    
+    + My passion for both computer science and cognitive science
+     
+     has led me to explore the fascinating intersection between
+     
+     these two fields.
 ```
 
 <br>
