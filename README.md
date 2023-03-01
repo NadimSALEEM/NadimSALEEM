@@ -5,8 +5,8 @@
     <img align="center" src="svg/1.png" height="100px"/>
 </h2>
     
-
-<img align="left" src="svg/4.png" height="100px"/>
+    
+<img align="left" src="ssvg/4.png" height="100px"/>
 
 ```Python
     + Hi guys, I'm Nadim, a third-year undergraduate student 
@@ -14,14 +14,13 @@
      in Cognitive Science at the IDMC - University of Lorraine.
      
     
-    + My passion for both computer science and cognitive science
+    + My passion for both computer science and cognitive sciences
      
      has led me to explore the fascinating intersection between
      
      these two fields.
 ```
 
-    
 <br>
 
 
@@ -56,13 +55,13 @@
             </td>
         </tr>
     </table>
-    <img src="svg/6.png" height="225px"/>
+    <img src="ssvg/6.png" height="225px"/>
     
 </div>
 
 <br>
 
-<img align="left" src="svg/3.png" height="100px"/>
+<img align="left" src="ssvg/3.png" height="100px"/>
 
 ```Python
     + Im eager to gain practical experience and contribute to the
