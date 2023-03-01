@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi There</h2>
     
-<img align="left" src="svg/givingback.svg" height="222px"/>
+<img align="left" src="svg/givingback.svg" height="175px"/>
 
 
 ```csharp
