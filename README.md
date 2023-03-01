@@ -7,7 +7,7 @@
 <img align="left" src="svg/givingback.svg" height="175px"/>
 
 
-```csharp
+```Python
     + Hi guys, I'm Nadim, a third-year undergraduate student 
      
      in Cognitive Science at the IDMC - University of Lorraine.
@@ -63,15 +63,15 @@
 
 <img align="left" src="svg/webdevelopment.svg" height="200px"/>
 
-```csharp
-    + I'm eager to gain practical experience and contribute to the
+```Python
+    + Im eager to gain practical experience and contribute to the
     
     development of innovative solutions that can enhance human
     
     cognition and decision-making.
     
     
-    + I'm particularly interested in topics such as
+    + Im particularly interested in topics such as
     
     artificial intelligence, machine learning, and data science.
     
