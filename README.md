@@ -1,10 +1,11 @@
-<p align="center">
-    <img src="svg/brain.png" width="320px"/>
+<p>
+    <img align="Right" src="svg/brain.png" width="300px"/>
 </p>
 
 <h2 align="center">Hi There</h2>
-
+    
 <img align="left" src="svg/givingback.svg" height="222px"/>
+
 
 ```csharp
     + Hi guys, I'm Nadim, a third-year undergraduate student 
@@ -19,7 +20,9 @@
      these two fields.
 ```
 
+    
 <br>
+
 
 <div align="center">
     <table align="left">
@@ -33,6 +36,10 @@
                 <br /> Javascript
             </td>
           <td align="center" width="140" height="112.43">
+                <img src="icons/c.png" width="65px"/>
+                <br /> C
+            </td>
+            <td align="center" width="140" height="112.43">
                 <img src="icons/c.png" width="65px"/>
                 <br /> C
             </td>
@@ -50,9 +57,14 @@
                 <img src="icons/r.png" width="65px"/>
                 <br /> R
             </td>
+            <td align="center" width="140" height="112.43">
+                <img src="icons/c.png" width="65px"/>
+                <br /> C
+            </td>
         </tr>
     </table>
     <img src="svg/artificialintelligence.svg" height="225px"/>
+    
 </div>
 
 <br>
