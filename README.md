@@ -47,7 +47,7 @@
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="icons/R.png" width="65px"/>
+                <img src="icons/r.png" width="65px"/>
                 <br /> R
             </td>
         </tr>
